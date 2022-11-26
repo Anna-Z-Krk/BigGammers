@@ -12,4 +12,4 @@ TOOLS:
 - HTML, CSS3 (SASS), JS
 
 
-* based on course by MMCSchool.
+ based on course by MMCSchool.
