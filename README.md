@@ -1,5 +1,5 @@
 # BigGammers
-## Webpage BigGammers - responsive, sass.
+## Single page BigGammers - responsive, sass.
 View: https://anna-z-krk.github.io/BigGammers/
 
 AIM:
